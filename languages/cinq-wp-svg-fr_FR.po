@@ -1,0 +1,41 @@
+# Copyright (C) 2026 CINQ
+# This file is distributed under the MIT.
+msgid ""
+msgstr ""
+"Project-Id-Version: CINQ SVG 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/cinq-wp-svg\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-10-20T14:40:35+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: cinq-wp-svg\n"
+
+#. Plugin Name of the plugin
+msgid "CINQ SVG"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://github.com/agencecinq/cinq-wp-svg"
+msgstr ""
+
+#. Description of the plugin
+msgid "Lets users who can post unfiltered HTML upload SVG files, and gives them dimensions. Files are not sanitized. No settings screen."
+msgstr "Permet aux utilisateurs autorisés à publier du HTML non filtré d’importer des fichiers SVG, et leur donne des dimensions. Les fichiers ne sont pas nettoyés. Aucun réglage."
+
+#. Author of the plugin
+msgid "CINQ"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://agencecinq.com/"
+msgstr ""
+
+#: cinq-wp-svg.php:117
+msgid "SVG files are uploaded as they are, without sanitization: a script inside one runs when the file is opened in a browser. Only upload SVG files from a source you trust."
+msgstr "Les fichiers SVG sont importés tels quels, sans nettoyage : un script qu’ils contiennent s’exécute à l’ouverture du fichier dans un navigateur. N’importez que des SVG provenant d’une source sûre."
